@@ -42,8 +42,8 @@ public class Main {
 
         //Write down your 3 favorite genres
         String[] favoriteGenres = {"Action", "Comedy", "Animated"};
-        System.out.println("First movie" + movieNames[0]); //Action first item in my array
-        System.out.println("First movie" + movieNames); //last item in my array
+        System.out.println("First movie" + movieNames[1]); //Action first item in my array
+      //  System.out.println("First movie" + movieNames); //last item in my array
         System.out.println("First movie" + movieNames[1]); //Comedy
     }
 }
